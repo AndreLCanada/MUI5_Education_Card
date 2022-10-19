@@ -1,4 +1,9 @@
 # Education Card
+## Screen Capture: 
+
+
+https://user-images.githubusercontent.com/108090605/196775357-c0259117-0501-49f6-a0fe-55c66cdffdfd.mov
+
 
 TG/Div/Modal(MUI5) as Education Card on Paper(MUI5)
 
